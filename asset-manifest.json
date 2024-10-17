@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React_JS/static/css/main.4fa1f962.css",
+    "main.js": "/React_JS/static/js/main.62c65492.js",
+    "static/js/453.f0f88b0d.chunk.js": "/React_JS/static/js/453.f0f88b0d.chunk.js",
+    "static/media/Cancelled.svg": "/React_JS/static/media/Cancelled.360749f102ea2ac68b5841e9f9ff29dd.svg",
+    "static/media/no_priority.svg": "/React_JS/static/media/no_priority.7218b139313728c6a4efa8da6e34852b.svg",
+    "static/media/Done.svg": "/React_JS/static/media/Done.a5158827c6345b2f141ff681c57cb3ac.svg",
+    "index.html": "/React_JS/index.html",
+    "static/media/low_priority.svg": "/React_JS/static/media/low_priority.491e21f9000cb90112dea470dbb72650.svg",
+    "static/media/medium_priority.svg": "/React_JS/static/media/medium_priority.83775665307e977d62e9b0fc7fb95cc4.svg",
+    "static/media/high_priority.svg": "/React_JS/static/media/high_priority.5024fd0d163cb13c95f2d29079e2974d.svg",
+    "static/media/urgent_priority_grey.svg": "/React_JS/static/media/urgent_priority_grey.45cb3c374d391aeb2ee4672390634279.svg",
+    "static/media/in-progress.svg": "/React_JS/static/media/in-progress.d4beb72fbc94f765259fc46ecaba9779.svg",
+    "static/media/urgent_priority_colour.svg": "/React_JS/static/media/urgent_priority_colour.9b67f75d5459d4d66573ef9f8e6f6841.svg",
+    "static/media/Backlog.svg": "/React_JS/static/media/Backlog.97adf3356b7d2e775ef530f7aed206e0.svg",
+    "static/media/to_do.svg": "/React_JS/static/media/to_do.c01d92afcffeef58b2cd9ae080df1f58.svg",
+    "main.4fa1f962.css.map": "/React_JS/static/css/main.4fa1f962.css.map",
+    "main.62c65492.js.map": "/React_JS/static/js/main.62c65492.js.map",
+    "453.f0f88b0d.chunk.js.map": "/React_JS/static/js/453.f0f88b0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa1f962.css",
+    "static/js/main.62c65492.js"
+  ]
+}
